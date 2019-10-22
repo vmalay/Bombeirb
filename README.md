@@ -1,5 +1,7 @@
 # **RAPPORT BOMBEIRB**
 
+![](sprite/bombeirb2.png)
+
 # **PATCH NOTE 1.00.00 :**
 
 ## I - Fonctionnalités de base fonctionnalités bonus rajoutées
@@ -26,6 +28,8 @@
     player et essaye de rendre X ou Y minimale. Si en essayant d’y parvenir il rencontre un obstacle, alors il essaye de le contourner
     en essayant d’abord de minimiser l’autre variable, sinon il essaye un mouvement aléatoire.
     Il existent 13 types de monstres, de 40x40, dans les 4 positions pour pouvoir les animer, ils sont coloriés et modifiés à la main :
+    
+![](sprite/bombeirb1.png)
 
 ### Gestion des maps :
 
@@ -36,6 +40,7 @@
     Les 5 premières maps du world 1 sont imaginées comme un tutoriel pour apprendre au joueur les bases du jeu.
     Création de 30 différentes maps avec des skins différents selon les worlds (worlds détaillés plus bas).
     Création de nouveau sous-type de cellule (monstres, bonus, bombes) pour une meilleure gestion et de nouveaux affichages.
+![](sprite/bombeirb7.png)
 
 ### Gestion des portes :
 
@@ -48,6 +53,7 @@
     -Lorsque le joueur est sur une porte ouverte, il peut appuyer sur espace pour changer de niveau.
     -Lorsque le joueur marche sur une porte ouverte, il change directement de niveau.
     Il y a une distinction d’image entre une porte qui monte et une porte qui descend :
+![](sprite/bombeirb5.png)
 
 ### Gestion des joueurs:
 
@@ -60,6 +66,7 @@
     Le joueur voit ses attributs modifiés en fonction de la difficulté.
     Le joueur possède différentes apparences. Chaque apparence est composé des 4 directions et représente un univers différent
     des jeux vidéos : Bomberman, Mario, Naruto et Saïtama.
+![](sprite/bombeirb4.png)
 
 ### Sauvegarde, Chargement et pause :
 
@@ -80,6 +87,7 @@
     Malus tête de mort : Le joueur est fou et se transforme en négatif, tous ses mouvements sont inversés pendant 5s.
     Bonus fantôme : Permet de transformer le joueur en fantôme pendant 5s lui permettant de traverser les boxes.
     Bonus Invulnérabilité : Le joueur est invulnérable à tout type de dégât pendant 5s.
+![](sprite/bombeirb3.png)
 
 ## PARTIE BONUS: FONCTIONALITÉ TOTALEMENT NOUVELLE.
 
@@ -118,6 +126,7 @@
     Une image de fond qui change en fonction du world choisi.
     En fonction du world (thème), le fond, les décors, les caisses et les monstres ont une couleur différentes. Par exemple les
     caisses sont transformées en bonhomme de neige pour le thème de l’hiver et en tas de feuille pour l’automne.
+![](sprite/bombeirb6.png)
 
 ### New Record et Timer:
 
