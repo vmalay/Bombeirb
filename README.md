@@ -40,7 +40,6 @@
     Les 5 premières maps du world 1 sont imaginées comme un tutoriel pour apprendre au joueur les bases du jeu.
     Création de 30 différentes maps avec des skins différents selon les worlds (worlds détaillés plus bas).
     Création de nouveau sous-type de cellule (monstres, bonus, bombes) pour une meilleure gestion et de nouveaux affichages.
-![](sprite/bombeirb7.png)
 
 ### Gestion des portes :
 
@@ -103,6 +102,7 @@
     Le menu se souvient des choix fait pas l’utilisateur car celui-ci utilise les structures player et map pour afficher les images.
     Chaque changement d’option dans le menu, chaque choix, chaque permutation d’option est une image différente. Au total il y
     a plus d’une 50en d’image pour le menu créées individuellement et entièrement de la base à partir de Photoshop.
+![](sprite/bombeirb6.png)
 
 ### Modes de difficulté:
 
@@ -126,7 +126,7 @@
     Une image de fond qui change en fonction du world choisi.
     En fonction du world (thème), le fond, les décors, les caisses et les monstres ont une couleur différentes. Par exemple les
     caisses sont transformées en bonhomme de neige pour le thème de l’hiver et en tas de feuille pour l’automne.
-![](sprite/bombeirb6.png)
+![](sprite/bombeirb7.png)
 
 ### New Record et Timer:
 
