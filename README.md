@@ -4,7 +4,7 @@
 
 # **PATCH NOTE 1.00.00 :**
 
-[![Alt text](https://img.youtube.com/vi/H9jn5Wb_MA4/0.jpg)](https://youtu.be/H9jn5Wb_MA4)
+<p align="center">[![Alt text](https://img.youtube.com/vi/H9jn5Wb_MA4/0.jpg)](https://youtu.be/H9jn5Wb_MA4)</p>
 
 ## I - Fonctionnalités de base fonctionnalités bonus rajoutées
 
