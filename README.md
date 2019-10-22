@@ -1,10 +1,10 @@
 # **RAPPORT BOMBEIRB**
 
-<p align="center">![](sprite/bombeirb2.png)</p>
+![](sprite/bombeirb2.png)
 
 # **PATCH NOTE 1.00.00 :**
 
-<p align="center">[![Alt text](https://img.youtube.com/vi/H9jn5Wb_MA4/0.jpg)](https://youtu.be/H9jn5Wb_MA4)</p>
+[![Alt text](https://img.youtube.com/vi/H9jn5Wb_MA4/0.jpg)](https://youtu.be/H9jn5Wb_MA4)
 
 ## I - Fonctionnalités de base fonctionnalités bonus rajoutées
 
